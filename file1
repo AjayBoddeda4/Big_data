@@ -1,0 +1,9 @@
+ the flow to for github: 
+         *   git init (initialize the file) 
+         *   git add .
+         *   git commit -m "make_changes" 
+         *   git remote add origin <url> (before this go to github and create a repositry) 
+         *   once the repostitry is set check it with git remote -v ( fetch the url details) 
+         *   now the brach name is master change it to main : git branch -M main 
+         *   now perform :git push origin main
+  
